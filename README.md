@@ -1,4 +1,4 @@
-                                                     Calculator Web App
+   Calculator Web App
 
 A responsive and interactive Calculator Web Application built using HTML, CSS, and JavaScript. The application performs basic arithmetic operations with a clean and intuitive user interface, demonstrating JavaScript event handling, DOM manipulation, and expression evaluation.
 
